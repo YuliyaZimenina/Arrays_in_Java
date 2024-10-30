@@ -1,5 +1,3 @@
-package irregular_shaped_array;
-
 /*
 Write a program that stores the number of passengers who traveled to
 the airport by express bus.
